@@ -1,0 +1,38 @@
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(1,'New York', 'NY');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(2,'Eugene', 'OR');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(3,'Seattle', 'WA');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(4,'Boston', 'MA');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(5,'Philadelphia', 'PA');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(6,'Albany', 'NY');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(7,'Rochester', 'NY');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(8,'Providence', 'NY');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(9,'Syracuse', 'NY');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(10,'Burlington', 'VA');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(11,'Milwaukee', 'WI');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(12,'Pittsburgh', 'PA');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(13,'Buffalo', 'NY');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(14,'Ithaca', 'NY');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(15,'White Plains', 'NY');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(16,'Nashua', 'NH');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(17,'Portland', 'ME');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(18,'Washington', 'VA');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(19,'Norfolk', 'VA');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(20,'New Haven', 'CT');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(21,'Hartford', 'CT');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(22,'Chicago', 'IL');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(23,'Toronto', 'ON');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(24,'Houston', 'TX');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(25,'Autstin', 'TX');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(26,'Denver', 'CO');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(27,'Boulder', 'CO');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(28,'San Diego', 'CA');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(29,'Los Angeles', 'CA');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(30,'San Fransisco', 'CA');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(31,'Portland', 'OR');
+INSERT INTO City (cityId, cityName, stateInitials) VALUES(32,'Vancouver', 'BC');
+
+
+INSERT INTO JobKeyword (jobKeywordId, keywordName) VALUES(1,'Java');
+INSERT INTO JobKeyword (jobKeywordId, keywordName) VALUES(2,'Python');
+INSERT INTO JobKeyword (jobKeywordId, keywordName) VALUES(3,'C#');
+INSERT INTO JobKeyword (jobKeywordId, keywordName) VALUES(4,'Data Science');
